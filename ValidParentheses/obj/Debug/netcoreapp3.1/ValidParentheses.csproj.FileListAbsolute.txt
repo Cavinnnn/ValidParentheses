@@ -1,0 +1,12 @@
+C:\Code\ValidParentheses\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.exe
+C:\Code\ValidParentheses\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.deps.json
+C:\Code\ValidParentheses\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.runtimeconfig.json
+C:\Code\ValidParentheses\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.runtimeconfig.dev.json
+C:\Code\ValidParentheses\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.dll
+C:\Code\ValidParentheses\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.pdb
+C:\Code\ValidParentheses\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.AssemblyInfoInputs.cache
+C:\Code\ValidParentheses\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.AssemblyInfo.cs
+C:\Code\ValidParentheses\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Code\ValidParentheses\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.dll
+C:\Code\ValidParentheses\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.pdb
+C:\Code\ValidParentheses\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.genruntimeconfig.cache
